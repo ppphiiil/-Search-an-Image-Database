@@ -2,11 +2,8 @@
     display: grid;
     grid-template-columns:repeat(auto-fill,minmax(200px,1fr));
     grid-gap:0px 4px;
-
 }
 
 .image-list img{
     width:100%;
-    /* grid-row-end: span 2; */
-
 }
